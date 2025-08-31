@@ -1,1 +1,1 @@
-# My-Project1
+# My-Project1 Food delivery is a service that transports prepared meals or grocery items from a restaurant, store, or food provider to a customer's desired location, often utilizing online platforms, websites, or mobile apps for ordering and, in some cases, real-time tracking.
